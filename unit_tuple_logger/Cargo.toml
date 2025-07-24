@@ -1,0 +1,10 @@
+[package]
+name = "unit_tuple_logger"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lazy_static = "1.4.0"
+
+[dev-dependencies]
+lazy_static = "1.4.0"
